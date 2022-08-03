@@ -1,2 +1,2 @@
-# Odev1
+# Odev 1
 Kodluyoruz - İlk Web Sayfamızı Oluşturmak
